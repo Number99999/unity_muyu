@@ -1,1 +1,5 @@
 Library/
+Packages/
+ProjectSettings/
+UserSettings/
+obj/Debug/
